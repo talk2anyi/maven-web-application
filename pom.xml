@@ -95,7 +95,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://172.31.24.24:8181/mylandmarktech/repository/tesla-web-releases/</url>
+	      <url>http://3.208.20.212:2000/repository/ebay-snapshot/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
